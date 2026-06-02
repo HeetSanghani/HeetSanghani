@@ -21,4 +21,5 @@
 
 - 🌐 Portfolio: [heet-sanghani-portfolio.vercel.app](https://heet-sanghani-portfolio.vercel.app/)
 - 💼 LinkedIn: [linkedin.com/in/heet-sanghani](https://www.linkedin.com/in/heet-sanghani/)
+- 📸 Instagram: [@_heet_patel_3108](https://www.instagram.com/_heet_patel_3108/)
 - 📧 Email: sanghaniheet3108@gmail.com
